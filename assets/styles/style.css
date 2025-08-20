@@ -57,7 +57,7 @@ nav a:hover {
 .jumbotron {
     font-size: 20px;
     padding: 60px;
-    background-color: #00c8eb;
+    background-color: #8B0000;
     text-align: center;
     color: white;
 }
@@ -70,7 +70,7 @@ nav li {
     list-style-type: none;
 }
 nav {
-    background-color: #00a2c6;
+    background-color: #CD5C5C;
     padding: 5px;
     position: sticky;
     top: 0;
@@ -78,7 +78,7 @@ nav {
 footer {
     padding: 20px;
     color: white;
-    background-color: #00a2c6;
+    background-color: #8B0000;
     text-align: center;
     font-weight: bold;
 }
